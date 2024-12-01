@@ -1,2 +1,2 @@
-ziliboba="pavel"
-print("имя",ziliboba)
+fullname=input("как вас зовут ")
+print(fullname)
